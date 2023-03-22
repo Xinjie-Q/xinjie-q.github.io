@@ -4,15 +4,42 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**2020**
+- **Low-complexity Deep Video Compression with A Distributed Coding Architecture.** 
 
-1. Yi-Fan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (JCR Q1)
-2. Yi-Fan Zhang, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
-3. Yi-Fan Zhang, Xinglin Zhang. ["BundleSense: A Task-Bundling-Based Incentive Mechanism for Mobile Crowd Sensing"](../files/BundleIncentive-icccn.pdf). International Conference on Computer Communications and Networks (ICCCN 2020)
+  **Xinjie Zhang**, Jiawei Shao, and Jun Zhang.
 
+  IEEE International Conference on Multimedia and Expo (ICME) 2023. 
 
-**Preprints:**
+  [[**Paper**]](https://arxiv.org/abs/2303.11599) [[**Code**]](https://github.com/Xinjie-Q/Distributed-DVC)
 
-1. Yifan Zhang, Weiqiang Zhang, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf).  Preprint
-2. Yi-Fan Zhang, Zhang Zhang, Da Li, Zhen Jia, Liang Wang, Tieniu Tan. ["Learning Domain Invariant Representations for Generalizable Person Re-Identification"]((../files/DIR-ReID.pdf)). Preprint.
-3. Yi-Fan Zhang, Xinglin Zhang, ["Incentive Mechanism with Task Bundling for Mobile Crowd Sensing"](/about.html)
+- **LDMIC: Learning-based distributed multi-view image coding.**
+
+  **Xinjie Zhang**, Jiawei Shao, and Jun Zhang. 
+
+  International Conference on Learning Representations (ICLR) 2023.
+
+  [[**Paper**]](https://openreview.net/forum?id=ILQVw4cA5F9) [[**Code**]](https://github.com/Xinjie-Q/LDMIC)
+
+- **Task-Oriented Communication for Edge Video Analytics.** 
+
+  Jiawei Shao, **Xinjie Zhang**, and Jun Zhang. 
+
+  arXiv 2022.
+
+  [[**Paper**]](https://arxiv.org/abs/2211.14049)
+
+- **Communication-Computation Efficient Device-Edge Co-Inference via AutoML.** 
+
+  **Xinjie Zhang**, Jiawei Shao, Yuyi Mao, and Jun Zhang. 
+
+  IEEE Global Communications Conference (GLOBECOM) 2021. 
+
+  [[**Paper**]](https://arxiv.org/abs/2108.13009) 
+
+- **Joint Offloading and Resource Allocation Using Deep Reinforcement Learning in Mobile Edge Computing.** 
+
+  **Xinjie Zhang**, Xinglin Zhang, and Wentao Yang. 
+
+  IEEE Transactions on Network Science and Engineering. 
+
+  [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9802709) 
