@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing-CN"
-title                    : "Yi-Fan Zhang (张一帆)"
+locale                   : "Hong Kong"
+title                    : "Xinjie Zhang"
 title_separator          : "-"
-name                     : &name "Yi-Fan Zhang"
-description              : &description "The first fear Ph.D. student @CASIA, NLPR, advised by Prof. Tieniu Tan. Formerly @microsoft Research Asia."
-url                      : https://yfzhang114.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xinjie Zhang"
+description              : &description "The second-year Ph.D. student @HKUST, advised by Prof. Jun Zhang."
+url                      : https://xinjie-q.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yfzhang114/yfzhang114.github.io" # TODO
+repository               : "Xinjie-Q/xinjie-q.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi-Fan Zhang"
-  avatar           : "profile2.jpg"
-  bio              : "The second fear Ph.D. student @CASIA, NLPR, advised by Prof. Tieniu Tan. Formerly @microsoft Research Asia."
-  location         : "Beijing, China"
+  name             : "Xinjie Zhang"
+  avatar           : "myphoto.jpg"
+  bio              : "PhD candidate @ HKUST"
+  location         : "Hong Kong, China"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=lUnt8X4AAAAJ&hl=zh-CN"
-  email            : "yifanzhang.cs@gmail.com"
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=U_gSl6wAAAAJ"
+  email            : "xinjie.zhang@connect.ust.hk"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,26 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yfzhang114"
+  github           : "Xinjie-Q"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"hanlin-zhang-931b46143/"
-  #orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"HanlinZhang_"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  
 
 # Reading Files
 include:
