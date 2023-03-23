@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - I am a Ph.D. candidate in [Dept. of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in Electronic Science and Technology from [South China University Of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
-- My research interests lie in image/video compression, computer vision, edge inference and task-oriented communication.
+- My research interests lie in image/video compression, image/video coding for machine, computer vision, edge inference and task-oriented communication.
 
 # 🔥 News
 
