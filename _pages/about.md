@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Ph.D. candidate in [Dept. of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in Electronic Science and Technology from [South China University Of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
-- My research interests lie in image/video compression, image/video coding for machine, computer vision, edge inference and task-oriented communication.
+- I am a Ph.D. candidate in [Department of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in [School of Electronic Information and Enginnering](http://www2.scut.edu.cn/ee/main.htm) from [South China University Of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
+- My research interests lie in image/video compression, image/video coding for machine, low-level vision, and edge inference.
 
 # 🔥 News
 
@@ -24,7 +24,7 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
   - **X. Zhang**, J. Shao, and J. Zhang, “Low-complexity Deep Video Compression with A Distributed Coding Architecture,” *IEEE International Conference on Multimedia and Expo (ICME)*, Brisbane, Australia, July 2023. [[**Paper**]](https://arxiv.org/abs/2303.11599) [[**Code**]](https://github.com/Xinjie-Q/Distributed-DVC) 
   - **X. Zhang**, J. Shao, and J. Zhang, “LDMIC: Learning-based distributed multi-view image coding,” *International Conference on Learning Representations (ICLR)*, Kigali, Rwanda, May 2023. [[**Paper**]](https://openreview.net/forum?id=ILQVw4cA5F9) [[**Code**]](https://github.com/Xinjie-Q/LDMIC)
 
-- Edge inference, task-oriented communication:
+- Edge inference:
   - J. Shao, **X. Zhang**, and J. Zhang, “Task-Oriented Communication for Edge Video Analytics,” submitted. [[**Paper**]](https://arxiv.org/abs/2211.14049)
   - **X. Zhang**, J. Shao, Y. Mao, and J. Zhang, “Communication-Computation Efficient Device-Edge Co-Inference via AutoML,” *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021. [[**Paper**]](https://arxiv.org/abs/2108.13009) 
 
