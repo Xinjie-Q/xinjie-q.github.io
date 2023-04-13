@@ -24,7 +24,7 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
   - **X. Zhang**, J. Shao, and J. Zhang, “Low-complexity Deep Video Compression with A Distributed Coding Architecture,” *IEEE International Conference on Multimedia and Expo (ICME)*, Brisbane, Australia, July 2023. [[**Paper**]](https://arxiv.org/abs/2303.11599) [[**Code**]](https://github.com/Xinjie-Q/Distributed-DVC) 
   - **X. Zhang**, J. Shao, and J. Zhang, “LDMIC: Learning-based distributed multi-view image coding,” *International Conference on Learning Representations (ICLR)*, Kigali, Rwanda, May 2023. [[**Paper**]](https://openreview.net/forum?id=ILQVw4cA5F9) [[**Code**]](https://github.com/Xinjie-Q/LDMIC)
 
-- Edge inference:
+- Edge AI:
   - J. Shao, **X. Zhang**, and J. Zhang, “Task-Oriented Communication for Edge Video Analytics,” submitted. [[**Paper**]](https://arxiv.org/abs/2211.14049)
   - **X. Zhang**, J. Shao, Y. Mao, and J. Zhang, “Communication-Computation Efficient Device-Edge Co-Inference via AutoML,” *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021. [[**Paper**]](https://arxiv.org/abs/2108.13009) 
 
