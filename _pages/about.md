@@ -11,6 +11,8 @@ redirect_from:
 - I am a Ph.D. candidate in [Department of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in [School of Electronic Information and Enginnering](http://www2.scut.edu.cn/ee/main.htm) from [South China University of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
 - My research interests lie in Gaussian Splatting, implicit neural representation, image/video compression, image/video coding for machine, low-level vision, and edge AI.
 
+💥 💥 <span style="color: red;"> I am currently seeking internship and full-time job opportunities. If you are interested in my profile, please do not hesitate to contact me. </span>
+
 # 🔥 News
 - **[Mar., 2024]** Our paper “GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting” was submitted. [[**Paper**]](https://arxiv.org/abs/2403.08551)
 - **[Mar., 2024]** Our paper “Content-aware Masked Image Modeling Transformer for Stereo Image Compression” was submitted. [[**Paper**]](https://arxiv.org/abs/2403.08505)
