@@ -16,7 +16,7 @@ redirect_from:
 # 🔥 News
 - **[Mar., 2024]** Our paper “GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting” was submitted. [[**Paper**]](https://arxiv.org/abs/2403.08551)
 - **[Mar., 2024]** Our paper “Content-aware Masked Image Modeling Transformer for Stereo Image Compression” was submitted. [[**Paper**]](https://arxiv.org/abs/2403.08505)
-- **[Feb., 2024]** Our paper “Boosting Neural Representations for Videos with a Conditional Decoder” was accepted to CVPR 2024 Highlight. [[**Paper**]](https://arxiv.org/abs/2402.18152)
+- **[Feb., 2024]** Our paper “Boosting Neural Representations for Videos with a Conditional Decoder” was accepted to CVPR 2024 **Highlight**. [[**Paper**]](https://arxiv.org/abs/2402.18152)
 - **[Feb., 2024]** Our paper “Controlling Encoder of Deep Video Compression for Machine” was accepted to CVPR 2024. [[**Paper**]]
 - **[Dec., 2023]** Our paper “Large language models empowered autonomous edge AI for connected intelligence” was accepted to IEEE Communications Magazine. [[**Paper**]](https://arxiv.org/abs/2307.02779)
 - **[Sep., 2023]** Our paper “Task-oriented communication for edge video analytics” was accepted to IEEE Transactions on Wireless Communications. [[**Paper**]](https://arxiv.org/abs/2211.14049)
