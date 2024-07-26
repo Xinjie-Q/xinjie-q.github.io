@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - I am a Ph.D. candidate in [Department of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in [School of Electronic Information and Enginnering](http://www2.scut.edu.cn/ee/main.htm) from [South China University of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
-📌 My research interests lie in neural data representation, compression and generation.
+📌 My research interests lie in Neural Data Representation, Compression, Generation and edge AI.
 ✉️ Welcome to contact me for any discussion and cooperation!
 
 💥 💥 **I anticipate graduating in 2025 and am open to both academic and industrial research positions in North America and Asia. If you are interested, please feel free to contact me.** 💥 💥
@@ -41,6 +41,7 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
 - Edge AI:
   - Y. Shen, J. Shao, **X. Zhang**, Z. Lin, H. Pan, D. Li, J. Zhang, K. B. Letaief, “Large language models empowered autonomous edge AI for connected intelligence,” *IEEE Commun. Mag.*, to appear. [[**Paper**]](https://arxiv.org/abs/2307.02779)
   - J. Shao, **X. Zhang**, and J. Zhang, “Task-oriented communication for edge video analytics,” *IEEE Trans. Wireless Commun.*, to appear. [[**Paper**]](https://arxiv.org/abs/2211.14049)
+  - **X. Zhang**, X. Zhang and W. Yang, “Joint Offloading and Resource Allocation Using Deep Reinforcement Learning in Mobile Edge Computing,” *IEEE Transactions on Network Science and Engineering*, vol. 9, no. 5, pp. 3454-3466, 1 Sept.-Oct. 2022. [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9802709) 
   - **X. Zhang**, J. Shao, Y. Mao, and J. Zhang, “Communication-Computation Efficient Device-Edge Co-Inference via AutoML,” *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021. [[**Paper**]](https://arxiv.org/abs/2108.13009) 
 
 # 🎖 Selected Awards
