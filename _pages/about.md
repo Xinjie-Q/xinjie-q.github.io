@@ -43,14 +43,19 @@ redirect_from:
 
 Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=U_gSl6wAAAAJ) for full publication list.
 - Neural Data Representation:
+  - **X. Zhang**, Z. Liu, Y. Zhang, X. Ge, D. He, T. Xu, Y. Wang, S. Yan and J. Zhang, “MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes”, submitted. [[**Paper**]]()
   - **X. Zhang\***, X. Ge\*, T. Xu, D. He, Y. Wang, H. Qin, G. Lu, J. Geng, and J. Zhang, “GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting,” *European Conference on Computer Vision (ECCV)*, Milano, Italy, Sept.-Oct. 2024. [[**Paper**]](https://arxiv.org/abs/2403.08551) [[**Code**]](https://github.com/Xinjie-Q/GaussianImage) (* equal contribution) 
   - **X. Zhang**, R. Yang, D. He, X. Ge, T. Xu, Y. Wang, H. Qin, and J. Zhang, “Boosting Neural Representations for Videos with a Conditional Decoder,” *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, Seattle, USA, June 2024. [[**Paper**]](https://arxiv.org/abs/2402.18152) [[**Code**]](https://github.com/Xinjie-Q/Boosting-NeRV) (**Highlight**)
 
 - Neural Data Compression:
+    - **X. Zhang**, S. Gao, Z. Liu, J. Shao, X. Ge, D. He, T. Xu, Y. Wang, and J. Zhang, “CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression”, submitted. [[**Paper**]](https://arxiv.org/abs/2403.08505)
     - Z. Liu, **X. Zhang**, J. Shao, Z. Lin, J. Zhang, “Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model,” *European Conference on Computer Vision (ECCV)*, Milano, Italy, Sept.-Oct. 2024. [[**Paper**]](https://arxiv.org/abs/2407.10632) 
     - X. Ge, J. Luo, **X. Zhang**, T. Xu, G. Lu, D. He, J. Geng, Y. Wang, J. Zhang, and H. Qin, “Task-aware Encoder Control for Deep Video Compression,” *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, Seattle, USA, Jun. 2024. [[**Paper**]](https://arxiv.org/abs/2404.04848)
   - **X. Zhang**, J. Shao, and J. Zhang, “Low-complexity Deep Video Compression with A Distributed Coding Architecture,” *IEEE International Conference on Multimedia and Expo (ICME)*, Brisbane, Australia, Jul. 2023. [[**Paper**]](https://arxiv.org/abs/2303.11599) [[**Code**]](https://github.com/Xinjie-Q/Distributed-DVC) 
   - **X. Zhang**, J. Shao, and J. Zhang, “LDMIC: Learning-based distributed multi-view image coding,” *International Conference on Learning Representations (ICLR)*, Kigali, Rwanda, May 2023. [[**Paper**]](https://arxiv.org/abs/2301.09799) [[**Code**]](https://github.com/Xinjie-Q/LDMIC)
+
+- Generative AI:
+  - Y. Huang, Z. Wang, R. Gong, J. Liu, **X. Zhang**, Jun Zhang, “HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration", submitted. [[**Paper**]](https://arxiv.org/abs/2410.01723)
 
 - Edge AI:
   - Y. Shen, J. Shao, **X. Zhang**, Z. Lin, H. Pan, D. Li, J. Zhang, K. B. Letaief, “Large language models empowered autonomous edge AI for connected intelligence,” *IEEE Commun. Mag.*, to appear. [[**Paper**]](https://arxiv.org/abs/2307.02779)
@@ -61,6 +66,8 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
 # 🎖 Selected Awards
 
 - Hong Kong Postgraduate Scholarship, 2021-2025.
-- National Scholarship, 2018-2019.
+- Cai Jianzhong First Prize Scholarship, 2019-2020.
+- Undergraduate National Scholarship, 2018-2019.
+- Undergraduate National Scholarship, 2017-2018.
 
 
