@@ -31,16 +31,13 @@ redirect_from:
 
 # 🏢 Internship Experience
 - Research Intern | @ 2050 Research, Skywork AI | 🇸🇬 Singapore, Jun. 2024 - now
-
-Mentor: Dr. [Yifan Zhang](https://sites.google.com/view/yifan-zhang/), Advisor: Prof. [Shuicheng Yan](https://yanshuicheng.info/)
+  - Mentor: Dr. [Yifan Zhang](https://sites.google.com/view/yifan-zhang/), Advisor: Prof. [Shuicheng Yan](https://yanshuicheng.info/)
 
 - Research Intern | @ Model Toolchain Team, SenseTime Research | 🇨🇳 Beijing, Jan. 2024 - May 2024
-
-Mentor: Dr. [Ruihao Gong](https://xhplus.github.io/)
+  - Mentor: Dr. [Ruihao Gong](https://xhplus.github.io/)
 
 - Research Intern | @ ISP and Codec Team, SenseTime Research | 🇨🇳 Beijing, May 2023 - Jan. 2024
-
-Mentor: Dr. [Ren Yang](https://renyang-home.github.io/)
+  - Mentor: Dr. [Ren Yang](https://renyang-home.github.io/)
 
 # 📝 Selected Publications
 
