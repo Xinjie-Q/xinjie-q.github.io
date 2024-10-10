@@ -10,22 +10,34 @@ redirect_from:
 
 - I am a Ph.D. candidate in [Department of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in [School of Electronic Information and Enginnering](http://www2.scut.edu.cn/ee/main.htm) from [South China University of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
 
-📌 My research interests lie in Neural Data Representation, Compression, Generation and Edge AI.
+📌 My research interests lie in Neural Data Representation & Compression, Generative AI and Edge AI.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
 💥 💥 **I anticipate graduating in 2025 and am open to both academic and industrial research positions in North America and Asia. If you are interested, please feel free to contact me.** 💥 💥
 
 # 🔥 News
-- **[Jul., 2024]** Our paper “GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting” was accepted to ECCV 2024. [[**Paper**]](https://arxiv.org/abs/2403.08551)[[**Code**]](https://github.com/Xinjie-Q/GaussianImage)
-- **[Jul., 2024]** Our paper “Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model” was accepted to ECCV 2024. [[**Paper**]](https://arxiv.org/abs/2407.10632)
-- **[Mar., 2024]** Our paper “Content-aware Masked Image Modeling Transformer for Stereo Image Compression” was submitted. [[**Paper**]](https://arxiv.org/abs/2403.08505)
-- **[Feb., 2024]** Our paper “Boosting Neural Representations for Videos with a Conditional Decoder” was accepted to CVPR 2024 **Highlight**. [[**Paper**]](https://arxiv.org/abs/2402.18152)[[**Code**]](https://github.com/Xinjie-Q/Boosting-NeRV)
-- **[Feb., 2024]** Our paper “Task-aware Encoder Control for Deep Video Compression” was accepted to CVPR 2024. [[**Paper**]](https://arxiv.org/abs/2404.04848)
-- **[Dec., 2023]** Our paper “Large language models empowered autonomous edge AI for connected intelligence” was accepted to IEEE Communications Magazine. [[**Paper**]](https://arxiv.org/abs/2307.02779)
-- **[Sep., 2023]** Our paper “Task-oriented communication for edge video analytics” was accepted to IEEE Transactions on Wireless Communications. [[**Paper**]](https://arxiv.org/abs/2211.14049)
-- **[Mar., 2023]** Our paper “Low-complexity Deep Video Compression with A Distributed Coding Architecture” was accepted to ICME 2023. [[**Paper**]](https://arxiv.org/abs/2303.11599)[[**Code**]](https://github.com/Xinjie-Q/Distributed-DVC) 
-- **[Jan., 2023]** Our paper “LDMIC: Learning-based distributed multi-view image coding” was accepted to ICLR 2023. [[**Paper**]](https://arxiv.org/abs/2301.09799)[[**Code**]](https://github.com/Xinjie-Q/LDMIC)
+- **[2024/10]** Our paper “MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes” was submitted. 
+- **[2024/10]** Our paper “HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration” was submitted. [[**Paper**]](https://arxiv.org/abs/2410.01723)
+- **[2024/06]** Our paper “GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting” was accepted to ECCV 2024. [[**Paper**]](https://arxiv.org/abs/2403.08551)[[**Code**]](https://github.com/Xinjie-Q/GaussianImage)
+- **[2024/06]** Our paper “Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model” was accepted to ECCV 2024. [[**Paper**]](https://arxiv.org/abs/2407.10632)
+- **[2024/03]** Our paper “Content-aware Masked Image Modeling Transformer for Stereo Image Compression” was submitted. [[**Paper**]](https://arxiv.org/abs/2403.08505)
+- **[2024/02]** Our paper “Boosting Neural Representations for Videos with a Conditional Decoder” was accepted to CVPR 2024 **Highlight**. [[**Paper**]](https://arxiv.org/abs/2402.18152)[[**Code**]](https://github.com/Xinjie-Q/Boosting-NeRV)
+- **[2024/02]** Our paper “Task-aware Encoder Control for Deep Video Compression” was accepted to CVPR 2024. [[**Paper**]](https://arxiv.org/abs/2404.04848)
+- **[2023/12]** Our paper “Large language models empowered autonomous edge AI for connected intelligence” was accepted to IEEE Communications Magazine. [[**Paper**]](https://arxiv.org/abs/2307.02779)
+- **[2023/09]** Our paper “Task-oriented communication for edge video analytics” was accepted to IEEE Transactions on Wireless Communications. [[**Paper**]](https://arxiv.org/abs/2211.14049)
+- **[2023/03]** Our paper “Low-complexity Deep Video Compression with A Distributed Coding Architecture” was accepted to ICME 2023. [[**Paper**]](https://arxiv.org/abs/2303.11599)[[**Code**]](https://github.com/Xinjie-Q/Distributed-DVC) 
+- **[2023/01]** Our paper “LDMIC: Learning-based distributed multi-view image coding” was accepted to ICLR 2023. [[**Paper**]](https://arxiv.org/abs/2301.09799)[[**Code**]](https://github.com/Xinjie-Q/LDMIC)
+
+# 🏢 Internship Experience
+Research Intern | @ 2050 Research, Skywork AI | 🇸🇬 Singapore, Jun. 2024 - now
+Mentor: Dr. [Yifan Zhang](https://sites.google.com/view/yifan-zhang/), Advisor: Prof. [Shuicheng Yan](https://yanshuicheng.info/)
+
+Research Intern | @ Model Toolchain Team, SenseTime Research | 🇨🇳 Beijing, Jan. 2024 - May 2024
+Mentor: Dr. [Ruihao Gong](https://xhplus.github.io/)
+
+Research Intern | @ ISP and Codec Team, SenseTime Research | 🇨🇳 Beijing, May 2023 - Jan. 2024
+Mentor: Dr. [Ren Yang](https://renyang-home.github.io/)
 
 # 📝 Selected Publications
 
