@@ -43,7 +43,7 @@ redirect_from:
 
 Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=U_gSl6wAAAAJ) for full publication list.
 - Neural Data Representation:
-  - **X. Zhang**, Z. Liu, Y. Zhang, X. Ge, D. He, T. Xu, Y. Wang, S. Yan and J. Zhang, “MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes”, submitted. [[**Paper**]]()
+  - **X. Zhang**, Z. Liu, Y. Zhang, X. Ge, D. He, T. Xu, Y. Wang, S. Yan and J. Zhang, “MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes”, submitted. 
   - **X. Zhang\***, X. Ge\*, T. Xu, D. He, Y. Wang, H. Qin, G. Lu, J. Geng, and J. Zhang, “GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting,” *European Conference on Computer Vision (ECCV)*, Milano, Italy, Sept.-Oct. 2024. [[**Paper**]](https://arxiv.org/abs/2403.08551) [[**Code**]](https://github.com/Xinjie-Q/GaussianImage) (* equal contribution) 
   - **X. Zhang**, R. Yang, D. He, X. Ge, T. Xu, Y. Wang, H. Qin, and J. Zhang, “Boosting Neural Representations for Videos with a Conditional Decoder,” *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, Seattle, USA, June 2024. [[**Paper**]](https://arxiv.org/abs/2402.18152) [[**Code**]](https://github.com/Xinjie-Q/Boosting-NeRV) (**Highlight**)
 
