@@ -29,15 +29,6 @@ redirect_from:
 - **[2023/03]** Our paper “Low-complexity Deep Video Compression with A Distributed Coding Architecture” was accepted to ICME 2023. [[**Paper**]](https://arxiv.org/abs/2303.11599)[[**Code**]](https://github.com/Xinjie-Q/Distributed-DVC) 
 - **[2023/01]** Our paper “LDMIC: Learning-based distributed multi-view image coding” was accepted to ICLR 2023. [[**Paper**]](https://arxiv.org/abs/2301.09799)[[**Code**]](https://github.com/Xinjie-Q/LDMIC)
 
-# 🏢 Internship Experience
-- Research Intern | @ 2050 Research, Skywork AI | 🇸🇬 Singapore, Jun. 2024 - now
-  - Mentor: Dr. [Yifan Zhang](https://sites.google.com/view/yifan-zhang/), Advisor: Prof. [Shuicheng Yan](https://yanshuicheng.info/)
-
-- Research Intern | @ Model Toolchain Team, SenseTime Research | 🇨🇳 Beijing, Jan. 2024 - May 2024
-  - Mentor: Dr. [Ruihao Gong](https://xhplus.github.io/)
-
-- Research Intern | @ ISP and Codec Team, SenseTime Research | 🇨🇳 Beijing, May 2023 - Jan. 2024
-  - Mentor: Dr. [Ren Yang](https://renyang-home.github.io/)
 
 # 📝 Selected Publications
 
