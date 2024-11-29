@@ -177,7 +177,7 @@
             which typically involve up to 144 parameters in classic 4DGS, thereby creating a memory-efficient 4D Gaussian representation. Furthermore, we introduce an 
             entropy-constrained Gaussian deformation technique that uses a deformation field to expand the action range of each Gaussian and integrates an opacity-based 
             entropy loss to limit the number of Gaussians, thus forcing our model to use as few Gaussians as possible to fit a dynamic scene well. With simple 
-            half-precision storage and zip compression, our framework achieves a storage reduction by approximately 190\[\times\] and 125\[\times\] on the Technicolor and Neural 3D Video 
+            half-precision storage and zip compression, our framework achieves a storage reduction by approximately 190\(\times\) and 125\(\times\) on the Technicolor and Neural 3D Video 
             datasets, respectively, compared to the original 4DGS. Meanwhile, it maintains comparable rendering speeds and scene representation quality, setting a new 
             standard in the field.
           </p>
@@ -225,10 +225,10 @@
           <img src="./static/images/mega_overview.png"> 
           <p>
             <b> Framework.</b> Overview of our proposed MEGA framework.
-            (a) The original 4D Gaussian uses 4D spherical harmonics \[\boldsymbol{h}\] to represent color, which is highly redundant and consumes substantial memory. 
-            (b) Our memory-efficient 4D Gaussian replaces \[\boldsymbol{h}\] with a compact, view-independent, and time-independent color component \[\boldsymbol{c}_{dc}\], 
-            achieving an about 8\[\times\] reduction in storage overhead. 
-            (c) In the per-Gaussian transformation, a lightweight AC color predictor compensates for the absent viewpoint and temporal information in \[\boldsymbol{c}_{dc}\],
+            (a) The original 4D Gaussian uses 4D spherical harmonics \(\boldsymbol{h}\) to represent color, which is highly redundant and consumes substantial memory. 
+            (b) Our memory-efficient 4D Gaussian replaces \(\boldsymbol{h}\) with a compact, view-independent, and time-independent color component \(\boldsymbol{c}_{dc}\), 
+            achieving an about 8\(\times\) reduction in storage overhead. 
+            (c) In the per-Gaussian transformation, a lightweight AC color predictor compensates for the absent viewpoint and temporal information in \(\boldsymbol{c}_{dc}\),
             and a deformation predictor expands the action range of each Gaussian. 
             (d) Our rendering process consists of four steps: per-Gaussian transformation, temporal slicing, projection, and differentiable rasterization.
           </p>
@@ -244,11 +244,10 @@
 <div class="container is-max-desktop" style="margin-top: 1px;">
   <div class="hero-body">
 
-    <h3 class="title is-4">Visualization of Dynamic components and Test views</h3>
+    <h3 class="title is-4">Visualization of Test views</h3>
       <div class="content has-text-justified">
         <p>
-          Qualitative comparisons on test view comparisons with baseline methods. 
-          We also provide visualizations of the dynamics components detected by our DASS, effectively guiding the optimization to focus on dynamic objects and complex motions.
+          Subjective comparison of various methods.
         </p>
         <img src="./static/images/visual_birthday.png" width="1100" height="auto">
         <br><br>
