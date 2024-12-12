@@ -18,6 +18,7 @@ redirect_from:
 
 # 🔥 News
 - **[2024/12]** Our paper “CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression” was accepted to AAAI 2025. [[**Paper**]](https://arxiv.org/abs/2403.08505)[[**Code**]](https://github.com/Xinjie-Q/CAMSIC)
+- **[2024/12]** Our paper “Large Images are Gaussians: High-quality Large Image Representation with Levels of 2D Gaussian Splatting” was accepted to AAAI 2025.
 - **[2024/10]** Our paper “MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes” was submitted. [[**Paper**]](https://arxiv.org/abs/2410.13613)
 - **[2024/10]** Our paper “HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration” was submitted. [[**Paper**]](https://arxiv.org/abs/2410.01723)
 - **[2024/06]** Our paper “GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting” was accepted to ECCV 2024. [[**Paper**]](https://arxiv.org/abs/2403.08551)[[**Code**]](https://github.com/Xinjie-Q/GaussianImage)
