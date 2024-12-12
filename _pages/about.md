@@ -17,11 +17,11 @@ redirect_from:
 💥 💥 **I anticipate graduating in 2025 and am open to both academic and industrial research positions in North America and Asia. If you are interested, please feel free to contact me.** 💥 💥
 
 # 🔥 News
+- **[2024/12]** Our paper “CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression” was accepted to AAAI 2025. [[**Paper**]](https://arxiv.org/abs/2403.08505)
 - **[2024/10]** Our paper “MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes” was submitted. [[**Paper**]](https://arxiv.org/abs/2410.13613)
 - **[2024/10]** Our paper “HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration” was submitted. [[**Paper**]](https://arxiv.org/abs/2410.01723)
 - **[2024/06]** Our paper “GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting” was accepted to ECCV 2024. [[**Paper**]](https://arxiv.org/abs/2403.08551)[[**Code**]](https://github.com/Xinjie-Q/GaussianImage)
 - **[2024/06]** Our paper “Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model” was accepted to ECCV 2024. [[**Paper**]](https://arxiv.org/abs/2407.10632)
-- **[2024/03]** Our paper “Content-aware Masked Image Modeling Transformer for Stereo Image Compression” was submitted. [[**Paper**]](https://arxiv.org/abs/2403.08505)
 - **[2024/02]** Our paper “Boosting Neural Representations for Videos with a Conditional Decoder” was accepted to CVPR 2024 **Highlight**. [[**Paper**]](https://arxiv.org/abs/2402.18152)[[**Code**]](https://github.com/Xinjie-Q/Boosting-NeRV)
 - **[2024/02]** Our paper “Task-aware Encoder Control for Deep Video Compression” was accepted to CVPR 2024. [[**Paper**]](https://arxiv.org/abs/2404.04848)
 - **[2023/12]** Our paper “Large language models empowered autonomous edge AI for connected intelligence” was accepted to IEEE Communications Magazine. [[**Paper**]](https://arxiv.org/abs/2307.02779)
@@ -46,7 +46,7 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
   - **X. Zhang**, R. Yang, D. He, X. Ge, T. Xu, Y. Wang, H. Qin, and J. Zhang, “Boosting Neural Representations for Videos with a Conditional Decoder,” *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, Seattle, USA, June 2024. [[**Paper**]](https://arxiv.org/abs/2402.18152) [[**Code**]](https://github.com/Xinjie-Q/Boosting-NeRV) (**Highlight**)
 
 - Neural Data Compression:
-    - **X. Zhang**, S. Gao, Z. Liu, J. Shao, X. Ge, D. He, T. Xu, Y. Wang, and J. Zhang, “CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression”, submitted. [[**Paper**]](https://arxiv.org/abs/2403.08505)
+    - **X. Zhang**, S. Gao, Z. Liu, J. Shao, X. Ge, D. He, T. Xu, Y. Wang, and J. Zhang, “CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression”, *Pro. AAAI Conference on Artificial Intelligence*, Philadelphia, USA, Feb.-Mar. 2025. [[**Paper**]](https://arxiv.org/abs/2403.08505)
     - Z. Liu, **X. Zhang**, J. Shao, Z. Lin, J. Zhang, “Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model,” *European Conference on Computer Vision (ECCV)*, Milano, Italy, Sept.-Oct. 2024. [[**Paper**]](https://arxiv.org/abs/2407.10632) 
     - X. Ge, J. Luo, **X. Zhang**, T. Xu, G. Lu, D. He, J. Geng, Y. Wang, J. Zhang, and H. Qin, “Task-aware Encoder Control for Deep Video Compression,” *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, Seattle, USA, Jun. 2024. [[**Paper**]](https://arxiv.org/abs/2404.04848)
   - **X. Zhang**, J. Shao, and J. Zhang, “Low-complexity Deep Video Compression with A Distributed Coding Architecture,” *IEEE International Conference on Multimedia and Expo (ICME)*, Brisbane, Australia, Jul. 2023. [[**Paper**]](https://arxiv.org/abs/2303.11599) [[**Code**]](https://github.com/Xinjie-Q/Distributed-DVC) 
