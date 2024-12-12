@@ -30,7 +30,7 @@ redirect_from:
 - **[2023/01]** Our paper “LDMIC: Learning-based distributed multi-view image coding” was accepted to ICLR 2023. [[**Paper**]](https://arxiv.org/abs/2301.09799)[[**Code**]](https://github.com/Xinjie-Q/LDMIC)
 
 # 🏢 Internship Experience
-- Research Intern | @ 2050 Research, Skywork AI | 🇸🇬 Singapore, Jun. 2024 - now
+- Research Intern | @ 2050 Research, Skywork AI | 🇸🇬 Singapore, Jun. 2024 - Dec. 2024
   - Mentor: Dr. [Yifan Zhang](https://sites.google.com/view/yifan-zhang/), Advisor: Prof. [Shuicheng Yan](https://yanshuicheng.info/)
 - Research Intern | @ Model Toolchain Team, SenseTime Research | 🇨🇳 Beijing, Jan. 2024 - May 2024
   - Mentor: Dr. [Ruihao Gong](https://xhplus.github.io/)
