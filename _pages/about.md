@@ -70,5 +70,3 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
 - Cai Jianzhong First Prize Scholarship, 2019-2020.
 - Undergraduate National Scholarship, 2018-2019.
 - Undergraduate National Scholarship, 2017-2018.
-
-<a href="https://info.flagcounter.com/s2Qv"><img src="https://s05.flagcounter.com/map/s2Qv/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
