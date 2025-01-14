@@ -71,7 +71,4 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
 - Undergraduate National Scholarship, 2018-2019.
 - Undergraduate National Scholarship, 2017-2018.
 
-
-<a href="http://s01.flagcounter.com/more/k4"><img src="https://s01.flagcounter.com/map/k4/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-
-<a href="https://info.flagcounter.com/PUlW"><img src="https://s01.flagcounter.com/mini/PUlW/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/s2Qv"><img src="https://s05.flagcounter.com/map/s2Qv/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
