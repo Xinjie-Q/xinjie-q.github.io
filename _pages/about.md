@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Ph.D. candidate in [Department of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in [School of Electronic Information and Enginnering](http://www2.scut.edu.cn/ee/main.htm) from [South China University of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
+- I am a final-year PhD student in [Department of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in [School of Electronic Information and Enginnering](http://www2.scut.edu.cn/ee/main.htm) from [South China University of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
 
 📌 My research interests lie in Neural Data Representation & Compression, Generative AI and Edge AI.
 
@@ -64,11 +64,14 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
   - **X. Zhang**, X. Zhang and W. Yang, “Joint Offloading and Resource Allocation Using Deep Reinforcement Learning in Mobile Edge Computing,” *IEEE Transactions on Network Science and Engineering*, vol. 9, no. 5, pp. 3454-3466, 1 Sept.-Oct. 2022. [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9802709) 
   - **X. Zhang**, J. Shao, Y. Mao, and J. Zhang, “Communication-Computation Efficient Device-Edge Co-Inference via AutoML,” *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021. [[**Paper**]](https://arxiv.org/abs/2108.13009) 
 
-# 🎖 Selected Awards
-
+# 🎖 Awards and Honors 
+- Top Reviewer, NeurIPS 2024.
 - Hong Kong Postgraduate Scholarship, 2021-2025.
 - Cai Jianzhong First Prize Scholarship, 2019-2020.
 - Undergraduate National Scholarship, 2018-2019.
 - Undergraduate National Scholarship, 2017-2018.
 
 
+<a href="http://s01.flagcounter.com/more/k4"><img src="https://s01.flagcounter.com/map/k4/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+<a href="https://info.flagcounter.com/PUlW"><img src="https://s01.flagcounter.com/mini/PUlW/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
