@@ -17,12 +17,13 @@ redirect_from:
 💥 💥 **I anticipate graduating in 2025 and am open to both academic and industrial research positions in North America and Asia. If you are interested, please feel free to contact me.** 💥 💥
 
 # 🔥 News
+- **[2025/05]** Our paper “Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities” was released. [[**Paper**]](https://arxiv.org/abs/2505.02567)
+- **[2025/05]** Our paper “HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration” was accepted to ICML 2025. [[**Paper**]](https://arxiv.org/abs/2410.01723)
 - **[2025/01]** Our paper “Rethinking Diffusion Posterior Sampling: From Conditional Score Estimator to Maximizing a Posterior” was accepted to ICLR 2025. [[**Paper**]](https://arxiv.org/abs/2501.18913)[[**Code**]](https://github.com/tongdaxu/rethinking-diffusion-posterior-sampling-from-conditional-score-estimator-to-maximizing-a-posterior)
 - **[2025/01]** Our paper “PvNeXt: Rethinking Network Design and Temporal Motion for Point Cloud Video Recognition” was accepted to ICLR 2025. [[**Paper**]](https://openreview.net/forum?id=ZsU52Zkzjr)
 - **[2024/12]** Our paper “CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression” was accepted to AAAI 2025. [[**Paper**]](https://arxiv.org/abs/2403.08505)[[**Code**]](https://github.com/Xinjie-Q/CAMSIC)
 - **[2024/12]** Our paper “Large Images are Gaussians: High-quality Large Image Representation with Levels of 2D Gaussian Splatting” was accepted to AAAI 2025. [[**Paper**]](https://arxiv.org/abs/2502.09039)[[**Code**]](https://github.com/HKU-MedAI/LIG)
 - **[2024/10]** Our paper “MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes” was submitted. [[**Paper**]](https://arxiv.org/abs/2410.13613)
-- **[2024/10]** Our paper “HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration” was submitted. [[**Paper**]](https://arxiv.org/abs/2410.01723)
 - **[2024/06]** Our paper “GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting” was accepted to ECCV 2024. [[**Paper**]](https://arxiv.org/abs/2403.08551)[[**Code**]](https://github.com/Xinjie-Q/GaussianImage)
 - **[2024/06]** Our paper “Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model” was accepted to ECCV 2024. [[**Paper**]](https://arxiv.org/abs/2407.10632)[[**Code**]](https://github.com/LIUZhening111/BiSIC) 
 - **[2024/02]** Our paper “Boosting Neural Representations for Videos with a Conditional Decoder” was accepted to CVPR 2024 **Highlight**. [[**Paper**]](https://arxiv.org/abs/2402.18152)[[**Code**]](https://github.com/Xinjie-Q/Boosting-NeRV)
@@ -58,7 +59,8 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
   - **X. Zhang**, J. Shao, and J. Zhang, “LDMIC: Learning-based distributed multi-view image coding,” *International Conference on Learning Representations (ICLR)*, Kigali, Rwanda, May 2023. [[**Paper**]](https://arxiv.org/abs/2301.09799) [[**Code**]](https://github.com/Xinjie-Q/LDMIC)
 
 - Generative AI:
-  - Y. Huang, Z. Wang, R. Gong, J. Liu, **X. Zhang**, Jun Zhang, “HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration", submitted. [[**Paper**]](https://arxiv.org/abs/2410.01723)
+  - **X. Zhang\***, J. Guo\*, S. Zhao\*, M. Fu, L. Duan, G. Wang, Q. Chen, Z. Xu, W. Luo, K. Zhang, "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities", preprint. [[**Paper**]](https://arxiv.org/abs/2505.02567)
+  - Y. Huang, Z. Wang, R. Gong, J. Liu, **X. Zhang**, J. Guo, X. Liu, and J. Zhang, “HarmoniCa: Harmonizing training and inference for better feature cache in diffusion transformer acceleration,” International Conference on Machine Learning (ICML), Vancouver, Canada, July 2025. [[**Paper**]](https://arxiv.org/abs/2410.01723) [[**Code**]](https://github.com/ModelTC/HarmoniCa)
 
 - Edge AI:
   - Y. Shen, J. Shao, **X. Zhang**, Z. Lin, H. Pan, D. Li, J. Zhang, K. B. Letaief, “Large language models empowered autonomous edge AI for connected intelligence,” *IEEE Commun. Mag.*, to appear. [[**Paper**]](https://arxiv.org/abs/2307.02779)
