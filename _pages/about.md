@@ -59,8 +59,8 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
   - **X. Zhang**, J. Shao, and J. Zhang, “LDMIC: Learning-based distributed multi-view image coding,” *International Conference on Learning Representations (ICLR)*, Kigali, Rwanda, May 2023. [[**Paper**]](https://arxiv.org/abs/2301.09799) [[**Code**]](https://github.com/Xinjie-Q/LDMIC)
 
 - Generative AI:
-  - **X. Zhang\***, J. Guo\*, S. Zhao\*, M. Fu, L. Duan, G. Wang, Q. Chen, Z. Xu, W. Luo, K. Zhang, "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities", preprint. [[**Paper**]](https://arxiv.org/abs/2505.02567)
-  - Y. Huang, Z. Wang, R. Gong, J. Liu, **X. Zhang**, J. Guo, X. Liu, and J. Zhang, “HarmoniCa: Harmonizing training and inference for better feature cache in diffusion transformer acceleration,” International Conference on Machine Learning (ICML), Vancouver, Canada, July 2025. [[**Paper**]](https://arxiv.org/abs/2410.01723) [[**Code**]](https://github.com/ModelTC/HarmoniCa)
+  - **X. Zhang\***, J. Guo\*, S. Zhao\*, M. Fu, L. Duan, G. Wang, Q. Chen, Z. Xu, W. Luo, K. Zhang, "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities", *preprint*. [[**Paper**]](https://arxiv.org/abs/2505.02567)
+  - Y. Huang, Z. Wang, R. Gong, J. Liu, **X. Zhang**, J. Guo, X. Liu, and J. Zhang, “HarmoniCa: Harmonizing training and inference for better feature cache in diffusion transformer acceleration,” *International Conference on Machine Learning (ICML)*, Vancouver, Canada, July 2025. [[**Paper**]](https://arxiv.org/abs/2410.01723) [[**Code**]](https://github.com/ModelTC/HarmoniCa)
 
 - Edge AI:
   - Y. Shen, J. Shao, **X. Zhang**, Z. Lin, H. Pan, D. Li, J. Zhang, K. B. Letaief, “Large language models empowered autonomous edge AI for connected intelligence,” *IEEE Commun. Mag.*, to appear. [[**Paper**]](https://arxiv.org/abs/2307.02779)
