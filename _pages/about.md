@@ -59,8 +59,9 @@ Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-
   - **X. Zhang**, J. Shao, and J. Zhang, “Low-complexity Deep Video Compression with A Distributed Coding Architecture,” *IEEE International Conference on Multimedia and Expo (ICME)*, Brisbane, Australia, Jul. 2023. [[**Paper**]](https://arxiv.org/abs/2303.11599) [[**Code**]](https://github.com/Xinjie-Q/Distributed-DVC) 
   - **X. Zhang**, J. Shao, and J. Zhang, “LDMIC: Learning-based distributed multi-view image coding,” *International Conference on Learning Representations (ICLR)*, Kigali, Rwanda, May 2023. [[**Paper**]](https://arxiv.org/abs/2301.09799) [[**Code**]](https://github.com/Xinjie-Q/LDMIC)
 
-- Generative AI:
-  - **X. Zhang\***, J. Guo\*, S. Zhao\*, M. Fu, L. Duan, G. Wang, Q. Chen, Z. Xu, W. Luo, K. Zhang, "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities", *preprint*. [[**Paper**]](https://arxiv.org/abs/2505.02567)
+- Generative AI: 
+  - G. Wang, S. Zhao, **X. Zhang**, L. Cao, P. Zhan, L. Duan, S. Lu, M. Fu, X. Chen, J. Zhao, Y. Li, Q. Chen, "Ovis-U1 Technical Report", *preprint*, Jun. 2025. [[**Paper**]](https://github.com/AIDC-AI/Ovis-U1/blob/main/docs/Ovis_U1_Report.pdf)[[**Project Page**]](https://github.com/AIDC-AI/Ovis-U1)[[**Demo**]](https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B)
+  - **X. Zhang\***, J. Guo\*, S. Zhao\*, M. Fu, L. Duan, G. Wang, Q. Chen, Z. Xu, W. Luo, K. Zhang, "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities", *preprint*, May 2025. [[**Paper**]](https://arxiv.org/abs/2505.02567)
   - Y. Huang, Z. Wang, R. Gong, J. Liu, **X. Zhang**, J. Guo, X. Liu, and J. Zhang, “HarmoniCa: Harmonizing training and inference for better feature cache in diffusion transformer acceleration,” *International Conference on Machine Learning (ICML)*, Vancouver, Canada, July 2025. [[**Paper**]](https://arxiv.org/abs/2410.01723) [[**Code**]](https://github.com/ModelTC/HarmoniCa)
 
 - Edge AI:
