@@ -10,7 +10,7 @@ redirect_from:
 
 - I am a final-year PhD student in [Department of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in [School of Electronic Information and Enginnering](http://www2.scut.edu.cn/ee/main.htm) from [South China University of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
 
-📌 My research interests lie in Neural Data Representation & Compression, Generative AI and Edge AI.
+📌 My research interests lie in Generative AI, Neural Data Representation & Compression, and Edge AI.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
