@@ -36,7 +36,7 @@ redirect_from:
 
 # 🏢 Internship Experience
 - Research Intern | @ AI Businesss, Alibaba | 🇨🇳 Hangzhou, Dec. 2024 - Present
-  - Mentor: Dr. [Guohua Wang](https://doctorkey.github.io/), Dr. [Qingguo Chen](https://scholar.google.com/citations?hl=en&user=GlqRHLcAAAAJ&view_op=list_works&sortby=pubdate)
+  - Mentor: Dr. [Guohua Wang](https://doctorkey.github.io/), Mr. [Qingguo Chen](https://scholar.google.com/citations?hl=en&user=GlqRHLcAAAAJ&view_op=list_works&sortby=pubdate)
 - Research Intern | @ 2050 Research, Skywork AI | 🇸🇬 Singapore, Jun. 2024 - Dec. 2024
   - Mentor: Dr. [Yifan Zhang](https://sites.google.com/view/yifan-zhang/), Advisor: Prof. [Shuicheng Yan](https://yanshuicheng.info/)
 - Research Intern | @ Model Toolchain Team, SenseTime Research | 🇨🇳 Beijing, Jan. 2024 - May 2024
