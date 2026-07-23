@@ -14,6 +14,8 @@ redirect_from:
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
+💥 💥 **I am looking for self-motivated interns at MSRA. If you are interested in LLMs, Multimodal Understanding and Generation, Pre-training, or Post-training, please feel free to contact me.** 💥 💥
+
 # 🔥 News
 - **[2026/07]** Our paper “Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing” was released. [[**Paper**]](https://arxiv.org/abs/2607.19064)
 - **[2026/07]** Our paper “SciForma: Structure-Faithful Generation of Scientific Diagrams” was released. [[**Paper**]](https://arxiv.org/abs/2607.18091)[[**Code**]](https://github.com/microsoft/SciForma)
