@@ -14,7 +14,7 @@ redirect_from:
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💥 💥 **I am looking for self-motivated interns at MSRA. If you are interested in LLMs, Multimodal Understanding and Generation, Pre-training, or Post-training, please feel free to contact me at [xinjiezhang@microsoft.com](mailto:xinjiezhang@microsoft.com?cc=xzhangga@connect.ust.hk) (cc [xzhangga@connect.ust.hk](mailto:xzhangga@connect.ust.hk)).** 💥 💥
+💥 💥 **I am looking for self-motivated interns at MSRA. If you are interested in the pre-training or post-training of LLMs and Multimodal Understanding and Generation models, please feel free to contact me at [xinjiezhang@microsoft.com](mailto:xinjiezhang@microsoft.com?cc=xzhangga@connect.ust.hk) (cc [xzhangga@connect.ust.hk](mailto:xzhangga@connect.ust.hk)).** 💥 💥
 
 # 🔥 News
 - **[2026/07]** Our paper “Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing” was released. [[**Paper**]](https://arxiv.org/abs/2607.19064)
