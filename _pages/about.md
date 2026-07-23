@@ -10,7 +10,7 @@ redirect_from:
 
 - I am a Senior Researcher at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I received my Ph.D. from [Department of Electronic and Computer Engineering (ECE)](https://ece.hkust.edu.hk/) at [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I received my B.Eng in [School of Electronic Information and Enginnering](http://www2.scut.edu.cn/ee/main.htm) from [South China University of Science and Technology (SCUT)](https://www.scut.edu.cn/new/) in 2021.
 
-📌 My research interests lie in Multimodal Understanding and Generation.
+📌 My research interests lie in Text Understanding, Multimodal Understanding, and Multimodal Generation.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
