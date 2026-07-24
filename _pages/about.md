@@ -37,6 +37,9 @@ redirect_from:
 - **[2024/02]** Our paper “Boosting Neural Representations for Videos with a Conditional Decoder” was accepted to CVPR 2024 **Highlight**. [[**Paper**]](https://arxiv.org/abs/2402.18152)[[**Code**]](https://github.com/Xinjie-Q/Boosting-NeRV)
 - **[2024/02]** Our paper “Task-aware Encoder Control for Deep Video Compression” was accepted to CVPR 2024. [[**Paper**]](https://arxiv.org/abs/2404.04848)
 
+# 💼 Work Experience
+- Senior Researcher | @ [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) | 🇨🇳 Beijing, Jul. 2025 - Present
+
 # 🏢 Internship Experience
 - Research Intern | @ AI Businesss, Alibaba | 🇨🇳 Hangzhou, Dec. 2024 - May 2025
   - Mentor: Dr. [Guohua Wang](https://doctorkey.github.io/), Mr. [Qingguo Chen](https://scholar.google.com/citations?hl=en&user=GlqRHLcAAAAJ&view_op=list_works&sortby=pubdate)
