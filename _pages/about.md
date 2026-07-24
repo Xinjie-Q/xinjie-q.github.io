@@ -39,7 +39,7 @@ redirect_from:
 
 # 💼 Work Experience
 - Senior Researcher | @ [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) | 🇭🇰 Hong Kong, Jul. 2025 - Present
-  - Manager: Dr. [Yan Lu](https://www.microsoft.com/en-us/research/people/yanlu/)
+  - Manager: Dr. [Lu Yan](https://www.microsoft.com/en-us/research/people/yanlu/)
 
 # 🏢 Internship Experience
 - Research Intern | @ AI Businesss, Alibaba | 🇨🇳 Hangzhou, Dec. 2024 - May 2025
