@@ -38,7 +38,8 @@ redirect_from:
 - **[2024/02]** Our paper “Task-aware Encoder Control for Deep Video Compression” was accepted to CVPR 2024. [[**Paper**]](https://arxiv.org/abs/2404.04848)
 
 # 💼 Work Experience
-- Senior Researcher | @ [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) | 🇨🇳 Beijing, Jul. 2025 - Present
+- Senior Researcher | @ [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) | 🇭🇰 Hong Kong, Jul. 2025 - Present
+  - Manager: Dr. [Yan Lu](https://www.microsoft.com/en-us/research/people/yanlu/)
 
 # 🏢 Internship Experience
 - Research Intern | @ AI Businesss, Alibaba | 🇨🇳 Hangzhou, Dec. 2024 - May 2025
