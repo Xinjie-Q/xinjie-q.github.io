@@ -49,6 +49,7 @@ redirect_from:
 
 Refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=U_gSl6wAAAAJ) for full publication list.
 - Multimodal Understanding and Generation: 
+  - S. Yang, K. Zhang, Z. Jia, J. Guo, Y. Shen, **X. Zhang**, X. Zhang, H. Wang, X. Li, P. Zhang, X. An, Y. Xie, Z. Liu, X. Guo, J. Li, S. Zheng, J. Wang, Z. Guo, W. Xie, Z. Zheng, Y. Luo, B. Li, and Y. Lu, "Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model", *preprint*, Jul. 2026. [[**Paper**]](https://arxiv.org/abs/2607.24904)[[**Project Page**]](https://microsoft.github.io/Mage)
   - **X. Zhang**, P. Zhang, S. Zheng, J. Guo, Z. Jia, Y. Shen, X. Guo, Y. Luo, J. Li, W. Xie, F. Pu, X. Zhang, K. Zhang, Z. Guo, T. Bi, D. Gui, Z. Liu, Z. Wen, Z. Zheng, S. Yang, X. Li, J. Wang, B. Li, and Y. Lu, "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing", *preprint*, Jul. 2026. [[**Paper**]](https://arxiv.org/abs/2607.19064)
   - Y. Luo, P. Zhang, **X. Zhang**, X. Guo, Z. Lian, and Y. Lu, "SciForma: Structure-Faithful Generation of Scientific Diagrams", *preprint*, Jul. 2026. [[**Paper**]](https://arxiv.org/abs/2607.18091)[[**Code**]](https://github.com/microsoft/SciForma)
   - G. Wang, S. Zhao, **X. Zhang**, L. Cao, P. Zhan, L. Duan, S. Lu, M. Fu, X. Chen, J. Zhao, Y. Li, Q. Chen, "Ovis-U1 Technical Report", *preprint*, Jun. 2025. [[**Paper**]](https://arxiv.org/abs/2506.23044)[[**Project Page**]](https://github.com/AIDC-AI/Ovis-U1)[[**Demo**]](https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B)
