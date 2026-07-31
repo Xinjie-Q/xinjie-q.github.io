@@ -17,6 +17,7 @@ redirect_from:
 💥 💥 **I am looking for self-motivated interns at MSRA. If you are interested in the pre-training or post-training of large models (including LLMs, VLMs, image/video generation, and world models), please feel free to contact me at [xinjiezhang@microsoft.com](mailto:xinjiezhang@microsoft.com?cc=xzhangga@connect.ust.hk) (cc [xzhangga@connect.ust.hk](mailto:xzhangga@connect.ust.hk)).** 💥 💥
 
 # 🔥 News
+- **[2026/07]** Our paper “Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model” was released. [[**Paper**]](https://arxiv.org/abs/2607.24904)[[**Project Page**]](https://microsoft.github.io/Mage)
 - **[2026/07]** Our paper “Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing” was released. [[**Paper**]](https://arxiv.org/abs/2607.19064)
 - **[2026/07]** Our paper “SciForma: Structure-Faithful Generation of Scientific Diagrams” was released. [[**Paper**]](https://arxiv.org/abs/2607.18091)[[**Code**]](https://github.com/microsoft/SciForma)
 - **[2026/02]** Our paper “MambaSIC: Mamba-based Stereo Image Compression with Bi-directional Multi-reference Entropy Model” was accepted to CVPR 2026.
